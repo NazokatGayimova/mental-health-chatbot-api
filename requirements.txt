@@ -1,3 +1,8 @@
 flask
-torch
 transformers
+torch
+scikit-learn
+pandas
+requests
+streamlit
+
