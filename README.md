@@ -18,16 +18,27 @@ This project is a simple and effective mental health support chatbot powered by 
 ## 📁 Project Structure
 mental-health-chatbot-api/
 ├── api_app.py                # Flask backend
+
 ├── streamlit_app.py          # Streamlit frontend
+
 ├── retrieval.py              # Retrieval logic
+
 ├── data.csv                  # Original dataset
+
 ├── data_cleaned.csv          # Cleaned dataset used for embedding
+
 ├── generate_embeddings.py    # Script to generate embeddings
+
 ├── precomputed_embeddings.pkl # Precomputed vector file
+
 ├── requirements.txt          # Python dependencies
+
 ├── Procfile                  # For deployment (Heroku-ready)
+
 ├── .gitignore
+
 └── venv/                     # Local virtual environment
+
 ---
 
 ## 🚀 How to Run
